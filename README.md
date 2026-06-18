@@ -121,7 +121,7 @@ This matters beyond model accuracy: stable farmers (Q1 volatility) earn 15–20%
 | 9 | `market_land_interaction` | Engineered |
 | 10 | `DISTRICT_te` | Encoded |
 
-![Feature Importance](docs/feature-importance.png)
+![Feature Importance](docs/feature-importance-lightgbm-gain.png)
 
 ---
 
